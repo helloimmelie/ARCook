@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0208404d3f442fe43bf0df3bbe3a349f
+timeCreated: 1492030735
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NEXON Football Gothic L
+  fontNames:
+  - NEXON Football Gothic L
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

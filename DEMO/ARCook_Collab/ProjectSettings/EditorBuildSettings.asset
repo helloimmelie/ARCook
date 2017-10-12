@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/01_MainTab.unity
+    guid: 23e4062ca3b34a94782e5d2277fe4388
+  - enabled: 1
+    path: Assets/Scene/02_1_Theme cooking.unity
+    guid: cf0c18101403027409c5849c1dad0793
+  - enabled: 1
+    path: Assets/Scene/02_2_material cooking.unity
+    guid: e6aff6312a59ade4bbe626eb13446d86
+  - enabled: 1
+    path: Assets/Scene/03_1_Theme_List_oneself.unity
+    guid: d5108a24d278fb245a28032be6b0cf47
+  - enabled: 1
+    path: Assets/Scene/04_0_Cooking_preparation_1.unity
+    guid: 068ca0fa57a8e7f4a8d82949d07bb934
+  - enabled: 1
+    path: Assets/Scene/04_0_Cooking_preparation_2.unity
+    guid: 55b2c4a23d0951a4689813ea6e72ff63
+  - enabled: 1
+    path: Assets/Scene/Scene0.unity
+    guid: 2458f9b46b0b49043806531d82e05b4a
+  - enabled: 1
+    path: Assets/Scene/Scene1.unity
+    guid: c50c64c737fc52649804316fb9be4791
+  - enabled: 1
+    path: Assets/Scene/Scene2.unity
+    guid: 708a7b6db87878642b2edc14dd6a5fbb
+  - enabled: 1
+    path: Assets/Scene/Scene3.unity
+    guid: ec336272165df704cbcfdde19914be9c
+  - enabled: 1
+    path: Assets/Scene/Scene4.unity
+    guid: 8ab432e4052dc3f46b92bb7dc8084930
+  - enabled: 1
+    path: Assets/Scene/Scene5.unity
+    guid: bd5b38dc2b33904479c7a3cc1d9a3c6d
+  - enabled: 1
+    path: Assets/Scene/DEMO_Scene00.unity
+    guid: 3d04a99c860d02448b80e1b56ae310bd
+  - enabled: 1
+    path: Assets/Scene/DEMO_Scene01.unity
+    guid: 4af67b23cb42ec74f8d59aad04781048
+  - enabled: 1
+    path: Assets/Scene/DEMO_Scene02.unity
+    guid: 8b78cc7bf9101644b83017f20a577dd7
+  - enabled: 1
+    path: Assets/Scene/DEMO_Scene03.unity
+    guid: 29d9cffe2d712b143acb6c4b37d47fee
+  - enabled: 1
+    path: Assets/Scene/DEMO_Scene04.unity
+    guid: 8399874beba143c45822c081e927ca08
+  - enabled: 1
+    path: Assets/Scene/DEMO_Scene05.unity
+    guid: f2cae4048d27afb4ca1832ff689f5443
+  - enabled: 1
+    path: Assets/Scene/DEMO_Scene06.unity
+    guid: e5d33b61b24363449b1093aef539ce03
+  - enabled: 1
+    path: Assets/Scene/DEMO_Scene07.unity
+    guid: 2ec5095753fbc024895d71ba8e0da191
+  - enabled: 1
+    path: Assets/Scene/DEMO_Scene08.unity
+    guid: ae4100d3e84a41f4abccc3f08818680e
+  - enabled: 1
+    path: Assets/Scene/DEMO_Scene09.unity
+    guid: a121ada784d795743a0abcbe1832dcda
+  - enabled: 1
+    path: Assets/Scene/DEMO_Scene10.unity
+    guid: 9fef8c04acf043d409e549e1e9c8877f
+  - enabled: 0
+    path: Assets/Scene/05_WebView.unity
+    guid: af78ea82e48612c4a9593f03e043b7c5
